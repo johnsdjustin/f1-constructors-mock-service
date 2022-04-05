@@ -35,48 +35,48 @@
         {
             "name": "Alpine", 
             "drivers": [
-                {"name": "Fernando Alonso", "worldChamption": true},
-                {"name": "Esteban Ocon", "worldChamption": false}
+                {"name": "Fernando Alonso", "worldChampion": true},
+                {"name": "Esteban Ocon", "worldChampion": false}
             ],
             "teamPrincipal": "Otmar Szafnauer"
         },
         {
             "name": "Aston Martin", 
             "drivers": [
-                {"name": "Sebastian Vettel", "worldChamption": true},
-                {"name": "Lance Stroll", "worldChamption": false}
+                {"name": "Sebastian Vettel", "worldChampion": true},
+                {"name": "Lance Stroll", "worldChampion": false}
             ],
             "teamPrincipal": "Mike Krack"
         },
         {
             "name": "Williams", 
             "drivers": [
-                {"name": "Nicholas Latifi", "worldChamption": false},
-                {"name": "Alexander Albon", "worldChamption": false}
+                {"name": "Nicholas Latifi", "worldChampion": false},
+                {"name": "Alexander Albon", "worldChampion": false}
             ],
             "teamPrincipal": "Jost Capito"
         },
         {
             "name": "AlphaTauri", 
             "drivers": [
-                {"name": "Pierre Gasly", "worldChamption": false},
-                {"name": "Yuki Tsunoda", "worldChamption": false}
+                {"name": "Pierre Gasly", "worldChampion": false},
+                {"name": "Yuki Tsunoda", "worldChampion": false}
             ],
             "teamPrincipal": "Franz Tost"
         },
         {
             "name": "Alfa Romeo", 
             "drivers": [
-                {"name": "Valtteri Bottas", "worldChamption": false},
-                {"name": "Zhou Guanyu", "worldChamption": false}
+                {"name": "Valtteri Bottas", "worldChampion": false},
+                {"name": "Zhou Guanyu", "worldChampion": false}
             ],
             "teamPrincipal": "Frédéric Vasseur"
         },
         {
             "name": "Haas", 
             "drivers": [
-                {"name": "Kevin Magnussen", "worldChamption": false},
-                {"name": "Mick Schumacher", "worldChamption": false}
+                {"name": "Kevin Magnussen", "worldChampion": false},
+                {"name": "Mick Schumacher", "worldChampion": false}
             ],
             "teamPrincipal": "Guenther Steiner"
         }
