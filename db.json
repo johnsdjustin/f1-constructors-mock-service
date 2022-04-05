@@ -1,0 +1,84 @@
+{
+    "constructors": [
+        {
+            "name": "McLaren", 
+            "drivers": [
+                {"name": "Daniel Ricciardo", "worldChampion": false},
+                {"name": "Lando Norris", "worldChampion": false}
+            ],
+            "teamPrincipal": "Andreas Seidl"
+        },
+        {
+            "name": "Ferrari", 
+            "drivers": [
+                {"name": "Charles Leclerc", "worldChampion": false},
+                {"name": "Carlos Sainz", "worldChampion": false}
+            ],
+            "teamPrincipal": "Mattia Binotto"
+        },
+        {
+            "name": "Red Bull", 
+            "drivers": [
+                {"name": "Max Verstappen", "worldChampion": true},
+                {"name": "Sergio Perez", "worldChampion": false}
+            ],
+            "teamPrincipal": "Christian Horner"
+        },
+        {
+            "name": "Mercedes", 
+            "drivers": [
+                {"name": "Lewis Hamilton", "worldChampion": true},
+                {"name": "George Russell", "worldChampion": false}
+            ],
+            "teamPrincipal": "Toto Wolff"
+        },
+        {
+            "name": "Alpine", 
+            "drivers": [
+                {"name": "Fernando Alonso", "worldChamption": true},
+                {"name": "Esteban Ocon", "worldChamption": false}
+            ],
+            "teamPrincipal": "Otmar Szafnauer"
+        },
+        {
+            "name": "Aston Martin", 
+            "drivers": [
+                {"name": "Sebastian Vettel", "worldChamption": true},
+                {"name": "Lance Stroll", "worldChamption": false}
+            ],
+            "teamPrincipal": "Mike Krack"
+        },
+        {
+            "name": "Williams", 
+            "drivers": [
+                {"name": "Nicholas Latifi", "worldChamption": false},
+                {"name": "Alexander Albon", "worldChamption": false}
+            ],
+            "teamPrincipal": "Jost Capito"
+        },
+        {
+            "name": "AlphaTauri", 
+            "drivers": [
+                {"name": "Pierre Gasly", "worldChamption": false},
+                {"name": "Yuki Tsunoda", "worldChamption": false}
+            ],
+            "teamPrincipal": "Franz Tost"
+        },
+        {
+            "name": "Alfa Romeo", 
+            "drivers": [
+                {"name": "Valtteri Bottas"},
+                {"name": "Zhou Guanyu"}
+            ],
+            "teamPrincipal": "Frédéric Vasseur"
+        },
+        {
+            "name": "Haas", 
+            "drivers": [
+                {"name": "Kevin Magnussen"},
+                {"name": "Mick Schumacher"}
+            ],
+            "teamPrincipal": "Guenther Steiner"
+        }
+    ]
+}
