@@ -67,16 +67,16 @@
         {
             "name": "Alfa Romeo", 
             "drivers": [
-                {"name": "Valtteri Bottas"},
-                {"name": "Zhou Guanyu"}
+                {"name": "Valtteri Bottas", "worldChamption": false},
+                {"name": "Zhou Guanyu", "worldChamption": false}
             ],
             "teamPrincipal": "Frédéric Vasseur"
         },
         {
             "name": "Haas", 
             "drivers": [
-                {"name": "Kevin Magnussen"},
-                {"name": "Mick Schumacher"}
+                {"name": "Kevin Magnussen", "worldChamption": false},
+                {"name": "Mick Schumacher", "worldChamption": false}
             ],
             "teamPrincipal": "Guenther Steiner"
         }
