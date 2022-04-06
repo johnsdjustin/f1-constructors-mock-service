@@ -1,7 +1,7 @@
 {
     "constructors": [
         {
-            "name": "McLaren", 
+            "id": "McLaren", 
             "drivers": [
                 {"name": "Daniel Ricciardo", "worldChampion": false},
                 {"name": "Lando Norris", "worldChampion": false}
@@ -9,7 +9,7 @@
             "teamPrincipal": "Andreas Seidl"
         },
         {
-            "name": "Ferrari", 
+            "id": "Ferrari", 
             "drivers": [
                 {"name": "Charles Leclerc", "worldChampion": false},
                 {"name": "Carlos Sainz", "worldChampion": false}
@@ -17,7 +17,7 @@
             "teamPrincipal": "Mattia Binotto"
         },
         {
-            "name": "Red Bull", 
+            "id": "Red Bull", 
             "drivers": [
                 {"name": "Max Verstappen", "worldChampion": true},
                 {"name": "Sergio Perez", "worldChampion": false}
@@ -25,7 +25,7 @@
             "teamPrincipal": "Christian Horner"
         },
         {
-            "name": "Mercedes", 
+            "id": "Mercedes", 
             "drivers": [
                 {"name": "Lewis Hamilton", "worldChampion": true},
                 {"name": "George Russell", "worldChampion": false}
@@ -33,7 +33,7 @@
             "teamPrincipal": "Toto Wolff"
         },
         {
-            "name": "Alpine", 
+            "id": "Alpine", 
             "drivers": [
                 {"name": "Fernando Alonso", "worldChampion": true},
                 {"name": "Esteban Ocon", "worldChampion": false}
@@ -41,7 +41,7 @@
             "teamPrincipal": "Otmar Szafnauer"
         },
         {
-            "name": "Aston Martin", 
+            "id": "Aston Martin", 
             "drivers": [
                 {"name": "Sebastian Vettel", "worldChampion": true},
                 {"name": "Lance Stroll", "worldChampion": false}
@@ -49,7 +49,7 @@
             "teamPrincipal": "Mike Krack"
         },
         {
-            "name": "Williams", 
+            "id": "Williams", 
             "drivers": [
                 {"name": "Nicholas Latifi", "worldChampion": false},
                 {"name": "Alexander Albon", "worldChampion": false}
@@ -57,7 +57,7 @@
             "teamPrincipal": "Jost Capito"
         },
         {
-            "name": "AlphaTauri", 
+            "id": "AlphaTauri", 
             "drivers": [
                 {"name": "Pierre Gasly", "worldChampion": false},
                 {"name": "Yuki Tsunoda", "worldChampion": false}
@@ -65,7 +65,7 @@
             "teamPrincipal": "Franz Tost"
         },
         {
-            "name": "Alfa Romeo", 
+            "id": "Alfa Romeo", 
             "drivers": [
                 {"name": "Valtteri Bottas", "worldChampion": false},
                 {"name": "Zhou Guanyu", "worldChampion": false}
@@ -73,7 +73,7 @@
             "teamPrincipal": "Frédéric Vasseur"
         },
         {
-            "name": "Haas", 
+            "id": "Haas", 
             "drivers": [
                 {"name": "Kevin Magnussen", "worldChampion": false},
                 {"name": "Mick Schumacher", "worldChampion": false}
