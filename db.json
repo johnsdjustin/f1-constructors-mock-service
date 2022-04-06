@@ -17,7 +17,7 @@
             "teamPrincipal": "Mattia Binotto"
         },
         {
-            "id": "red_bull", 
+            "id": "redBull", 
             "drivers": [
                 {"name": "Max Verstappen", "worldChampion": true},
                 {"name": "Sergio Perez", "worldChampion": false}
@@ -41,7 +41,7 @@
             "teamPrincipal": "Otmar Szafnauer"
         },
         {
-            "id": "aston_martin", 
+            "id": "astonMartin", 
             "drivers": [
                 {"name": "Sebastian Vettel", "worldChampion": true},
                 {"name": "Lance Stroll", "worldChampion": false}
@@ -57,7 +57,7 @@
             "teamPrincipal": "Jost Capito"
         },
         {
-            "id": "alpha_tauri", 
+            "id": "alphaTauri", 
             "drivers": [
                 {"name": "Pierre Gasly", "worldChampion": false},
                 {"name": "Yuki Tsunoda", "worldChampion": false}
@@ -65,7 +65,7 @@
             "teamPrincipal": "Franz Tost"
         },
         {
-            "id": "alfa_romeo", 
+            "id": "alfaRomeo", 
             "drivers": [
                 {"name": "Valtteri Bottas", "worldChampion": false},
                 {"name": "Zhou Guanyu", "worldChampion": false}
